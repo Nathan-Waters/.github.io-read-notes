@@ -1,4 +1,4 @@
-## Code 102 Reading Notes </br>
+## Code 102 Reading Notes
 _-Did not attend Code Fellows 102_
 
 # Code 201 Reading Notes
