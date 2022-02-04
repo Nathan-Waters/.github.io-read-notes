@@ -13,7 +13,7 @@ _-Did not attend Code Fellows 102_
 - [ ] Read: 09 Forms and Events
 - [ ] Read: 10 JS Debugging
 - [ ] Read: 11 Assorted Topics
-- [ ] Read: 12 Docs for the HTML <canvas> Element & Chart.js
+- [ ] Read: 12 Docs for the HTML Element & Chart.js
 - [ ] Read: 13 Local Storage
 - [ ] Read: 14a CSS Transforms, Transitions, and Animations
 - [ ] Read: 14b What Google Learned About Teams
