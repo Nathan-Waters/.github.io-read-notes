@@ -83,13 +83,72 @@ Escape Characters <br>
 -Styling HTML5 layout elements with CSS <br>
 
 Headers and Footers <br>
--these appear at the top and bottom of your site, and tipicaly do not vary <br>
--
+-example: \<header\>\</header\> || \<footer\>\</footer\> <br>
+-these appear at the top and bottom of your site. <br>
+-Headers typicall have the title and the nav bar. <br>
+-the footer usually has the copyright and contact information. <br>
+
+Navagation <br>
+-example: \<nav\>\</nav\> <br>
+-nav bars are the primary search engine of your website. <br>
+-they can be at the top, bottom or sides of the page. <br>
+
+Articles <br>
+-example: \<article\>\</article\>
+-It is for any section that can stand on its own <br>
+-A page can have multiple articles if need be <br> 
+
+Aside <br>
+-example: \<aside\>\</aside\> <br>
+-when the aside element is placed inside an article it supplies addition information about it. <br>
+-when outside of an article it is used as a container to explain content on the page. <br>
+
+Section <br>
+-example: \<section\>\</section\> <br>
+-the section element is for grouping related content on the page. <br>
+
+Heading Groups <br>
+-example: \<hgroup\>\</hgroup\> <br>
+-the hgroup is used to group as many headers together on the page. <br>
+
+Figures <br>
+-example: \<figure\>\</figure\> || \<figcaption\>\</figcaption\> <br>
+-the figure and figcaption elements are used to contain and caption an image on the page. <br>
+
+Sectioning Elements <br>
+-example: \<div\>\</div\> <br>
+-the layout elements mentioned above are for specific, any other sectioning should be done with the div element. <br>
+
+Linking Around Block-Level Elements <br>
+-this is using the a element(or linking element) to link and entire block-level element. <br>
+
+Helping Older Browsers Understand <br>
+-example: \<!--[if lt IE 9]\> .... \<![endif]--\> <br>
+-this is a comment that that is a prevenative measure incase the user is using an old browser. <br>
+
+## HTML5 Layout Summary <br>
+-new HTML5 elements to show more accuratly what each element is for <br>
+-old browsers need to be told what are block elements <br>
+-make old browsers work with your updated HTML <br>
 
 
+# Chapter 18: Process & Design, Pages 452-475 <br>
+-How to approach building a site <br>
+-Understanding your audience and their needs <br>
+-How to present information visitors want to see <br>
 
-# Chapter 18: Process & Design, Pages 452-475
-
-
-
-
+Who is the site for? <br>
+-target audience: individuales
+  -age range?
+  -men or women? both?
+  -where do they live?
+  -device that it will likely be used on?
+-target audiance: company
+  -size of the company?
+  -who in the company will utilize?
+  -is it for the company or the customers?
+  
+Why people visit your website?
+-key modivations
+  -
+  
