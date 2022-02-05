@@ -77,8 +77,14 @@ Escape Characters <br>
 -meta allows you to supply info about your page <br>
 -escape characters have work arounds <br>
 
-# Chapter 17: HTML5 Layout, Pages 428-451 
+# Chapter 17: HTML5 Layout, Pages 428-451 <br>
+-HTML5 layout elements <br>
+-How old browsers understand new elements <br>
+-Styling HTML5 layout elements with CSS <br>
 
+Headers and Footers <br>
+-these appear at the top and bottom of your site, and tipicaly do not vary <br>
+-
 
 
 
