@@ -138,17 +138,17 @@ Helping Older Browsers Understand <br>
 -How to present information visitors want to see <br>
 
 Who is the site for? <br>
--target audience: individuales
-  -age range?
-  -men or women? both?
-  -where do they live?
-  -device that it will likely be used on?
--target audiance: company
-  -size of the company?
-  -who in the company will utilize?
-  -is it for the company or the customers?
+-target audience: individuales <br>
+  -age range? <br>
+  -men or women? both? <br>
+  -where do they live? <br>
+  -device that it will likely be used on? <br>
+-target audiance: company <br>
+  -size of the company? <br>
+  -who in the company will utilize? <br>
+  -is it for the company or the customers? <br>
   
-Why people visit your website?
--key modivations
+Why people visit your website? <br>
+-key modivations <br>
   -
   
