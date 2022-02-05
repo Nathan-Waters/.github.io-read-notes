@@ -2,10 +2,10 @@
 
 # Introduction, Pages 2-11
 
-Brief run down of what to expect with the book. </br>
--Touches on HTML/CSS </br>
--How the web is accessed and websites are created </br>
--The broad way the web works </br>
+Brief run down of what to expect with the book. <br>
+-Touches on HTML/CSS <br>
+-How the web is accessed and websites are created <br>
+-The broad way the web works <br>
 
 # Chapter 1: Structure, Pages 12-39
 -Understanding structure </br>
