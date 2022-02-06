@@ -150,14 +150,78 @@ Who is the site for? <br>
   
 Why people visit your website? <br>
 1. key modivations <br>
-   -are they looking for entertainment?
-   -personal or professional?
-   -essential or luxury?
-2. Goals
-   -do they want general info/reserch/ or something specific?
-   -are they familiar or new to your product or service?
-   -is the service time sensitive?
-   -do they need to contact you?
+   -are they looking for entertainment? <br>
+   -personal or professional? <br>
+   -essential or luxury? <br>
+2. Goals <br>
+   -do they want general info/reserch/ or something specific? <br>
+   -are they familiar or new to your product or service? <br>
+   -is the service time sensitive? <br>
+   -do they need to contact you? <br>
  
-What your visitors are trying to achieve
-  
+What your visitors are trying to achieve <br>
+
+
+
+
+
+
+
+
+
+
+
+
+# JS Book
+
+# Introduction
+
+-talks aboout the broad concepts of programming and what roles it has to play in the user experiance. <br>
+-discribes what content will be in the book such as diagrams, referances, and examples. <br>
+-shows some examples of Javascript in websites. <br>
+-structure of the book, core concepts and then practical applications. <br>
+
+# Chapter 1: The ABC of Programming, Pages 11-52
+-becoming familiary with the basics of reading and writing JavaScript <br>
+
+
+## 1/a What is a script and how do i create one?
+-a script is a set of instructions. <br>
+-example: recipes, handbooks, manuals. <br>
+
+Writing a script <br>
+-in order to write a script, you need a goal to achieve. <br>
+-to acomplish the goal, you need as simple steps as possible in as specific of an order as you can. <br>
+-define goal, design script, code each step. <br>
+-first you need to define the tasks, and then break down the steps you need to do each one. <br>
+
+Vocabulary = the words computers understand | Syntax = how those words come together to create instructions a computer understands. <br>
+
+### 1/a Summary
+What is a script and how do i create one? <br>
+-a script is a set of instructions for a computer to follow. <br>
+-each script may only use some of the code. <br>
+-computers dont approach tasks like humans, they need a specific language in a programmatical manner. <br>
+-to approach writing a script, breaking it down in an simple manner(flowchart or something) can simplify the process. <br>
+
+## 1/b How do computers fit in with the world around them?
+
+Objects and Prioreties
+-objects(things): things around the world are objects when it comes to data. <br>
+-each object has: properties, events, and methods. <br>
+-properties are characteristics of an object. <br>
+-events are the common ways that objects interact with eachother. <br>
+-methods are how objects interact with the real world. <br>
+
+How A browser sees a page: receive a page as HTML, Create a model, and Render the page on the screen <br>
+ 
+### 1/b Summary
+How do computers fit in with the world around them? <br>
+-create models of the world with data. <br>
+-code = when this, execute this. <br>
+-browsers use HTML for format. <br>
+
+## 1/c How do i write a script for a web page
+
+
+
