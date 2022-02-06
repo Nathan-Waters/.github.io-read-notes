@@ -157,14 +157,17 @@ Why people visit your website? <br>
    -do they want general info/reserch/ or something specific? <br>
    -are they familiar or new to your product or service? <br>
    -is the service time sensitive? <br>
-   -do they need to contact you? <br>
+   -do they need to contact you?  <br>
  
-What your visitors are trying to achieve <br>
+Important Factors <br>
+-What your visitors are trying to achieve <br>
+-what information your visitors need <br>
+-how often people will visit your site <br>
+-organizing the site to optimize these things <br>
+-using wireframes to get a visualization of the complete product <br>
 
-
-
-
-
+Getting your message across using design
+-
 
 
 
