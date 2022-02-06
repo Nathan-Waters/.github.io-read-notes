@@ -223,5 +223,24 @@ How do computers fit in with the world around them? <br>
 
 ## 1/c How do i write a script for a web page
 
+How HTML, CSS, and JavaScript Fit Together <br>
+-content layer(HTML), presentation layer(CSS), Behavior Layer(JavaScript) <br>
+-page should be build from left to right to ensure minimal conflict. <br>
 
+Creating a Basic JavaScript <br>
+-JavaScript files are saved with a .js to designate the launguage. <br>
+-.js files are called to the page with a script element and source(src=\"\") to the specific script. <br>
+
+Using Objects and Methods <br>
+-order sytax: object, member operator, method(parameters) <br>
+-object: is what is being manipulated <br>
+-member operator: separates the object from the method <br>
+-method: allows new content to be introduced to the page <br>
+-parameters: the info methods need to work <br>
+
+### 1/c Summary
+How do I write a script for a web page? <br>
+-its best to keep JavaScript cod in its own file. <br>
+-the HTML script element is used to call the JavaScript code. <br>
+-the source code of the page is not changed by the JavaScript. It works with the web. <br>
 
