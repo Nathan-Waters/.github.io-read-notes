@@ -167,13 +167,27 @@ Important Factors <br>
 -using wireframes to get a visualization of the complete product <br>
 
 Getting your message across using design
--
+-content: web pages, much like news articles, have a variety of topics. <br>
+-prioritizing: some info on the page will be more important, and should be displayed as such. <br>
+-organizing: related content should be in similar locations, like items in a grocery store. <br>
+-visual hierarchy: a picture is worth a thousand words, make them count. <br>
+-grouping: having the right information surrounding eachother. <br>
+-similarity: keeping away from dirastic changes is easier on the eyes. <br>
 
+Designing Navigation
+-concise: easy to read without to many options. <br>
+-clear: understand what each links purpose is for. <br>
+-selective: should only be for selecting content. <br>
+-context: help the users understand where they are. <br>
+-interactive: should be large enough in size, and change when it is hoverd. <br>
+-consistent: the primary nav bar should be the same across the site. <br>
 
-
-
-
-
+## Process and Design Summary
+-the importance of understanding who is visiting the cite, why they are, and when they will return <br>
+-site maps allow you to make an outline of your website <br>
+-design is about communication. visual hieraarchy helps visitors understand what you are trying to tell them. <br>
+-you can differentiate between pieces of info using size, color, and style <br>
+-you can use grouping and similarity to help simplify the info you present. <br>
 
 # JS Book
 
