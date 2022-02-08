@@ -261,3 +261,4 @@ How do I write a script for a web page? <br>
 -the HTML script element is used to call the JavaScript code. <br>
 -the source code of the page is not changed by the JavaScript. It works with the web. <br>
 
+-hi jon
