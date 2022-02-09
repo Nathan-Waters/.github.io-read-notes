@@ -28,7 +28,21 @@ nested lists <br>
 - df are used to define terminology
 - lists can be nested inside one another
 
-# Chapter 13: Boxes, Pages 300-329
+# Chapter 13: Boxes, Pages 300-329 
+- controlling size of boxes <br>
+- box model for borders, margin and padding <br>
+- displaying and hiding boxes  <br>
+
+Dimensions and width/height limits and overflow
+- by default boxes are big enough to fit their content. <br>
+- limiting max and min widths helps adjust for screen size. <br>
+- overflow can be hidden or given its own scroll bar. <br>
+
+border, margin and padding <br>
+- they are applied in that order within the page. <br>
+- they adjust how much space is in between each element and where. <br>
+
+
 
 # JS book
 
