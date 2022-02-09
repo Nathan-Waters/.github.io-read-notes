@@ -41,7 +41,20 @@ Dimensions and width/height limits and overflow
 border, margin and padding <br>
 - they are applied in that order within the page. <br>
 - they adjust how much space is in between each element and where. <br>
+- width can be adjusted as a whole, or individuale portions. <br>
+- style will change what the border looks like, see pg 310 for examples. <br>
 
+Centering content
+- set right and left margins to auto
+- text-align center
+
+Changing inline/block
+- display will allow you to change between inline and block. <br>
+- inline-block and none are also options. <br>
+
+Hiding Boxes
+- sometimes you may want entire boxes to be invisible. <br>
+- visibilty is the call for that. <br>
 
 
 # JS book
