@@ -106,7 +106,7 @@ Using Loops <br>
 - while: good for verifying the data input is correct for the questions being asked. <br>
 - do while: good for any while loop you always want to run at least 1 time. <br>
 
-## Decisions and Loops 
+## Decisions and Loops Summary 
 - conditional statements allow your code to make decisions about what to do next. <br>
 - comparison operators are used to compare two operands. <br>
 - logical operators allow you to combine more than one set of comparison operators. <br>
