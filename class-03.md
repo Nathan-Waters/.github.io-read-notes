@@ -80,4 +80,15 @@ Main things to keep in mind <br>
 - evaluation: expressions, operators, arithmetic. <br>
 - string operator: mainly use concatenation. <br>
 
-# Chapter 4: Decisions and loops, Pages 40-61
+# Chapter 4: Decisions and loops, Pages 162-182
+
+Switch Statements
+- starts with what is called a switch value. <br>
+- has a code block that runs through possible opritons before finding a match. <br>
+
+Type coercion and weak typing
+- javascript will try to figure out what data type you ment if they dont match. <br>
+- this is refered to as weak typing. it is strong if it requires a data type. <br>
+- examples of truthy and falsy values pg 167. checking equality and existence pg 168. <br>
+
+Loops
