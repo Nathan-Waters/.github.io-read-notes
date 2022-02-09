@@ -43,19 +43,33 @@ border, margin and padding <br>
 - they adjust how much space is in between each element and where. <br>
 - width can be adjusted as a whole, or individuale portions. <br>
 - style will change what the border looks like, see pg 310 for examples. <br>
+ 
+Centering content <br>
+- set right and left margins to auto <br>
+- text-align center <br>
 
-Centering content
-- set right and left margins to auto
-- text-align center
-
-Changing inline/block
+Changing inline/block <br>
 - display will allow you to change between inline and block. <br>
 - inline-block and none are also options. <br>
 
-Hiding Boxes
+Hiding Boxes <br>
 - sometimes you may want entire boxes to be invisible. <br>
 - visibilty is the call for that. <br>
 
+CSS3 <br>
+- border-image: see page 319. <br>
+- box shadow: many different ways to add shadow pg 320. <br>
+- border-radius: allows you to rownd the ends of corners on the border. <br>
+- additionaly you can eclips them with more specific assignments. <br>
+
+## Boxes Summary
+- CSS treats each HTML element as if it has its own box. <br>
+- you can use CSS to control the dimentions of a box. <br>
+- you can also control the borders, margins and padding for each box with CSS. <br>
+- it is possible to hide elements using the display and visibility properties. <br>
+- Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes. <br>
+- legibility can be improved by controlling the width of boxes containing text and the leading. <br>
+- CSS3 has introduced the ability to create image borders and rounded borders. <br>
 
 # JS book
 
