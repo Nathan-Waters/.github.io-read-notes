@@ -92,3 +92,26 @@ Type coercion and weak typing
 - examples of truthy and falsy values pg 167. checking equality and existence pg 168. <br>
 
 Loops
+- for: running code a specific number of times. <br>
+- while: as long as a statement remains in one state, the code will run. <br>
+- do while: like a while loop but the question is asked at the end of the statement. it will always run at least once. <br>
+- loop counters: the loop has a variable that decides if the code should be excicuted. if should also have something that updates it eventually to leave the loop. <br>
+
+loop keywords <br>
+- break: allows you to end a loop regardless of condition. <br>
+- continue: makes the loop check the condition again. <br>
+
+Using Loops <br>
+- for: good for sorting though data. needs an intial var/count, a condition to end the loop, and an iteration at the end. <br>
+- while: good for verifying the data input is correct for the questions being asked. <br>
+- do while: good for any while loop you always want to run at least 1 time. <br>
+
+## Decisions and Loops 
+- conditional statements allow your code to make decisions about what to do next. <br>
+- comparison operators are used to compare two operands. <br>
+- logical operators allow you to combine more than one set of comparison operators. <br>
+- if else statements allow you to run one set of code if a condition is true, and another if it is false. <br>
+- switch statements allow you to compare a value against outcomes. <br>
+- data types can be coerced from one type to another. <br>
+- all values evaluate to either truthy or falsy. <br>
+- there are three types of loop: for, while, do while. <br>
