@@ -75,4 +75,9 @@ CSS3 <br>
 
 # Review from Reading 02: chapter 2, Pages 70-73
 
+Main things to keep in mind <br>
+- Arrays: creating, editing, reading. <br>
+- evaluation: expressions, operators, arithmetic. <br>
+- string operator: mainly use concatenation. <br>
+
 # Chapter 4: Decisions and loops, Pages 40-61
