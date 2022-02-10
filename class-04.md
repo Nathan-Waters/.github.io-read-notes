@@ -79,7 +79,28 @@ What is a function?
 - declaring a function has a function keyword followed by the name of the function. <br>
 - it then has the statements put into the code block following it.
 - calling the function by the name and then entering any parameters in the () that follow. <br>
-- 
+- you can get multiple values out of a function if you make it an array. <br>
 
+Anonymous functions and function epressions <br>
+
+Immediately invoked function expressions <br>
+- this function has a closed parentheses in it. <br>
+- variable scope: where you save the variable decides what will happen to it. <br>
+
+How Memory and Variables work
+- gloobal vaiables u se more memory. <br>
+- browser remembers them as long as the web page is using them. <br>
 
 # Article: 6 reasons for pair programming
+
+Pair Programming
+- the act of working with another individual on the same code at the same time. <br>
+- goal is to decrease down time of debugging and ideas and improve modivation. <br>
+
+benifits
+- efficiency: two head are better than one. <br>
+- engaged collaboration: working on a team has tops of benifits. <br>
+- Learning from Fellow Students: always a learning experiance for both involved. <br>
+- Social skills: practice explaing concepts and discussing topics. <br>
+- Job Interview Readiness: Allows you to practice displaying your skills to others. <br>
+- Work environment Readiness: Many employers use it already to train CS degree holders. <br>
