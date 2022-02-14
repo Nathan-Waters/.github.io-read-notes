@@ -7,7 +7,7 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 03 HTML Lists, CSS Boxes, JS Control Flow [here](class-03.md)
 - [X] Read: 04 HTML Links, CSS Layout, JS Functions [here](class-04.md)
 - [X] Read: 05 HTML Images; CSS Color & Text [here](class-05.md)
-- [ ] Read: 06 JS Object Literals; The DOM
+- [X] Read: 06 JS Object Literals; The DOM [here](class-06.md)
 - [ ] Read: 07 HTML Tables; JS Constructor Functions
 - [ ] Read: 08 More CSS Layout
 - [ ] Read: 09 Forms and Events
