@@ -9,7 +9,7 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 05 HTML Images; CSS Color & Text [here](class-05.md)
 - [X] Read: 06 JS Object Literals; The DOM [here](class-06.md)
 - [X] Read: 07 HTML Tables; JS Constructor Functions [here](class-07.md)
-- [ ] Read: 08 More CSS Layout
+- [X] Read: 08 More CSS Layout [here](class-08.md)
 - [ ] Read: 09 Forms and Events
 - [ ] Read: 10 JS Debugging
 - [ ] Read: 11 Assorted Topics
