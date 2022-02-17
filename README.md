@@ -10,7 +10,7 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 06 JS Object Literals; The DOM [here](class-06.md)
 - [X] Read: 07 HTML Tables; JS Constructor Functions [here](class-07.md)
 - [X] Read: 08 More CSS Layout [here](class-08.md)
-- [ ] Read: 09 Forms and Events
+- [X] Read: 09 Forms and Events [here](class-09.md)
 - [ ] Read: 10 JS Debugging
 - [ ] Read: 11 Assorted Topics
 - [ ] Read: 12 Docs for the HTML Element & Chart.js
