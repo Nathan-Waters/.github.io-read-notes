@@ -73,3 +73,26 @@ Three ways to bind an event to an element  <br>
 - HTML Event handler attributes(dont use) pg 251.  <br>
 - traditional dom event handlers pg 252.  <br>
 - Event listeners pg 254.  <br>
+
+event flow  <br>
+- html events nest inside other elements.
+- hover or click on a link, you will be hover or clicking on its parent elements.  <br>
+- flow events matter when your code has event handlers on the element and on of its ancestors or descendants. <br>
+
+types of events  <br>
+- load, unload, error, resize, scroll  <br>
+- load: commonly used to trigger scripts that access the contents of the page.  <br>
+- focus/blur: often used to change apearances of elements.  <br>
+- mouse events: list are on page 276.  <br>
+
+where events occur  <br>
+- screen: on the x/y. position on the screen.  <br>
+- page: page x and y. which page.  <br>
+- client: client x and y indicat the position of the cursor.  <br>
+
+# Event Summary
+- events are the browser's way of indicating when something has happened (such as when a page has finished loading or a button has been clicked.).  <br>
+- binding is the processs of stating which event you are waiting for to happen upon.  <br>
+- when an event occurs on an element, it can trigger a javascript function. when this functuion then changes the web page in some way, it feels interactive because it has responded to the user.  <br>
+- you can use event delegation to monitor for events that happen on all of the children of an element.  <br>
+- the most commonly used events are w3c dom events although there are others in the html5 specification as well as browser-specific events.  <br>
