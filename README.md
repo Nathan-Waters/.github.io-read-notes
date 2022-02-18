@@ -11,7 +11,7 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 07 HTML Tables; JS Constructor Functions [here](class-07.md)
 - [X] Read: 08 More CSS Layout [here](class-08.md)
 - [X] Read: 09 Forms and Events [here](class-09.md)
-- [ ] Read: 10 JS Debugging
+- [X] Read: 10 JS Debugging [here](class-10.md)
 - [ ] Read: 11 Assorted Topics
 - [ ] Read: 12 Docs for the HTML Element & Chart.js
 - [ ] Read: 13 Local Storage
