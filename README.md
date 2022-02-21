@@ -12,7 +12,7 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 08 More CSS Layout [here](class-08.md)
 - [X] Read: 09 Forms and Events [here](class-09.md)
 - [X] Read: 10 JS Debugging [here](class-10.md)
-- [ ] Read: 11 Assorted Topics
+- [ ] Read: 11 Assorted Topics [here](class-11.md)
 - [ ] Read: 12 Docs for the HTML Element & Chart.js
 - [ ] Read: 13 Local Storage
 - [ ] Read: 14a CSS Transforms, Transitions, and Animations
