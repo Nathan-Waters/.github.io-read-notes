@@ -1,5 +1,5 @@
 # Notes from Read: 03 HTML Lists, CSS Boxes, JS Control Flow
-[Home](README.md)
+[Home](/README.md)
 # Chapter 3: Lists, Pages 42-73
 - Numbered lists <br>
 - Bullet lists <br>
