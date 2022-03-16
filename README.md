@@ -2,7 +2,7 @@
 _-Did not attend Code Fellows 102_
 
 # Code 201 Reading Notes
-- [X] Read: 01 Introductory HTML and JavaScript [here](class-01.md)
+- [X] Read: 01 Introductory HTML and JavaScript [here](201-notes/class-01.md)
 - [X] Read: 02 HTML Text, CSS Introduction, and Basic JavaScript Instructions [here](class-02.md)
 - [X] Read: 03 HTML Lists, CSS Boxes, JS Control Flow [here](class-03.md)
 - [X] Read: 04 HTML Links, CSS Layout, JS Functions [here](class-04.md)
@@ -15,9 +15,25 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 11 Assorted Topics [here](class-11.md)
 - [X] Read: 12 Docs for the HTML Element & Chart.js [here](class-12.md)
 - [X] Read: 13 Local Storage [here](class-13.md)
-- [X] Read: 14a CSS Transforms, Transitions, and Animations [here](class-13.md)
-- [X] Read: 14b What Google Learned About Teams [here](class-13.md)
+- [X] Read: 14a CSS Transforms, Transitions, and Animations [here](class-14a.md)
+- [X] Read: 14b What Google Learned About Teams [here](class-14b.md)
 
+# Code 201 Reading Notes
+- [X] Read: 01 Introduction to React and Components [here](class-01.md)
+- [X] Read: 02 HTML Text, CSS Introduction, and Basic JavaScript Instructions [here](class-02.md)
+- [X] Read: 03 HTML Lists, CSS Boxes, JS Control Flow [here](class-03.md)
+- [X] Read: 04 HTML Links, CSS Layout, JS Functions [here](class-04.md)
+- [X] Read: 05 HTML Images; CSS Color & Text [here](class-05.md)
+- [X] Read: 06 JS Object Literals; The DOM [here](class-06.md)
+- [X] Read: 07 HTML Tables; JS Constructor Functions [here](class-07.md)
+- [X] Read: 08 More CSS Layout [here](class-08.md)
+- [X] Read: 09 Forms and Events [here](class-09.md)
+- [X] Read: 10 JS Debugging [here](class-10.md)
+- [X] Read: 11 Assorted Topics [here](class-11.md)
+- [X] Read: 12 Docs for the HTML Element & Chart.js [here](class-12.md)
+- [X] Read: 13 Local Storage [here](class-13.md)
+- [X] Read: 14a CSS Transforms, Transitions, and Animations [here](class-14a.md)
+- [X] Read: 14b What Google Learned About Teams [here](class-14b.md)
 #
 
 ## Chapter 1 (example of reading set-up)
