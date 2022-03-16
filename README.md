@@ -15,8 +15,10 @@ _-Did not attend Code Fellows 102_
 - [X] Read: 11 Assorted Topics [here](class-11.md)
 - [X] Read: 12 Docs for the HTML Element & Chart.js [here](class-12.md)
 - [X] Read: 13 Local Storage [here](class-13.md)
-- [ ] Read: 14a CSS Transforms, Transitions, and Animations
-- [ ] Read: 14b What Google Learned About Teams
+- [X] Read: 14a CSS Transforms, Transitions, and Animations [here](class-13.md)
+- [X] Read: 14b What Google Learned About Teams [here](class-13.md)
+
+#
 
 ## Chapter 1 (example of reading set-up)
 1. Topic
