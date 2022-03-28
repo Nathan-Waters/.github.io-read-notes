@@ -1,17 +1,35 @@
-# Notes from Read: 07 in memory storage
+# Notes from Read: 07 REST
 [Home](README.md)
 
 
-Understanding the JavaScript Call Stack
-What is a ‘call’?
-How many ‘calls’ can happen at once?
-What does LIFO mean?
-Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-What causes a Stack Overflow?
-JavaScript error messages
-What is a ‘refrence error’?
-What is a ‘syntax error’?
-What is a ‘range error’?
-What is a ‘tyep error’?
-What is a breakpoint?
-What does the word ‘debugger’ do in your code?  
+Who is Roy Fielding?
+He made HTTP 
+
+Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
+there are older cites and we have created new protocals since.
+
+What is the HTTP protocol that Fielding and his friends created?
+they created universal launguages that all computer could understand and give any computer on the interet the same rules to follow.
+
+What does a GET do?
+gets data from the browser.
+
+What does a POST do?
+sends data to the browser/server.
+
+What does PUT do?
+replaces data on a system.
+
+What does PATCH do?
+update an existing 
+
+Geocoding API
+Did you get your API key?
+Weather Bit API
+Did you get your API key?
+Yelp API Docs
+Did you get your API key?
+The Movie DB API Docs
+Did you get your API key?
+
+Yes to all of the above.
